@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "726127514714",
+    "project_id": "registration-722b1",
+    "storage_bucket": "registration-722b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726127514714:android:a9a341325d224b86b7b463",
+        "android_client_info": {
+          "package_name": "com.registrationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726127514714-5qujsiuu1k7mlvp3nv9lnmpi23mujab5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.registrationapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "726127514714-7gne6jfumlev95e2mgp8ht9o6jg3linc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuZ1DRRDdNeBRCBt3SpviYRNAUEdQU9QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726127514714-7gne6jfumlev95e2mgp8ht9o6jg3linc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

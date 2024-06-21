@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RegistrationApp</string>
+    <string name="facebook_app_id">1381980782472387</string>
+    <string name="fb_login_protocol_scheme">fb1381980782472387</string>
+    <string name="facebook_client_token">ebeecd4395751e3206cd58b0b88bbea0</string>
+
+
+</resources>
